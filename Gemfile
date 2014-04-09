@@ -7,3 +7,4 @@ gem 'rails', '4.0.4'
 gem 'sqlite3', '1.3.9', :require => 'sqlite3'
 
 gem 'jquery-rails', '3.1.0'
+gem 'turbolinks', '2.2.2'
